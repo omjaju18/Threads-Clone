@@ -41,8 +41,6 @@ interface Props {
 async function ThreadsTab({ currentUserId, accountId, accountType }: Props) {
     let result: Result;
 
-    /* Checking if there is community or user post  */
-    
     if (accountType === "Community") {
         result = await fetchCommunityPosts(accountId);
     } else {
