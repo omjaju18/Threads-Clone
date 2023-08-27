@@ -1,3 +1,7 @@
+
+![Threads_(app)](https://github.com/omjaju18/Threads-Clone/assets/113230517/446d18cd-b76f-472e-89b8-98da445ae93f)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
