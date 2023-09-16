@@ -86,7 +86,7 @@ Threads Clone with NEXT.JS! (ReactJS, ReactJS, NextJS, Typescript, Tailwind CSS,
 
 - Sign up for a Firebase account <a href='https://firebase.google.com'>HERE</a>
 - Install Node JS in your computer <a href='https://nodejs.org/en/'>HERE</a>
-- Stripe, Inc. <a href='https://stripe.com/en-gb-us'>HERE</a>
+
 
 <!-- Env Variables -->
 
@@ -94,37 +94,26 @@ Threads Clone with NEXT.JS! (ReactJS, ReactJS, NextJS, Typescript, Tailwind CSS,
 
 To run this project, you will need to add the following environment variables to your .env file
 
-`HOST`
+`NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY`
 
-`NEXTAUTH_URL`
+`CLERK_SECRET_KEY`
 
-`GOOGLE_CLIENT_ID`
+`NEXT_CLERK_WEBHOOK_SECRET`
 
-`STRIPE_PUBLIC_KEY`
+`NEXT_PUBLIC_CLERK_SIGN_IN_URL`
 
-`STRIPE_SECRET_KEY`
+`NEXT_PUBLIC_CLERK_SIGN_UP_URL`
 
-`NEXT_PUBLIC_SECRET`
+`NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL`
 
-`NEXT_PUBLIC_BASE_URL`
+`NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL`
 
-`GOOGLE_CLIENT_SECRET`
 
-`STRIPE_SIGNING_SECRET`
+`MONGODB_URL`
 
-`NEXT_PUBLIC_FIREBASE_APP_ID`
+`UPLOADTHING_SECRET`
 
-`NEXT_PUBLIC_FIREBASE_API_KEY`
-
-`NEXT_PUBLIC_FIREBASE_PROJECT_ID`
-
-`NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN`
-
-`NEXT_PUBLIC_FIREBASE_MESSAGING_SET`
-
-`NEXT_PUBLIC_FIREBASE_STORAGE_BUCKET`
-
-`NEXT_PUBLIC_FIREBASE_MEASUREMENT_ID`
+`UPLOADTHING_APP_ID`
 
 
 
@@ -249,7 +238,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## :handshake: Contact
 
-Your Name - [@twitter_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
+Your Name - [@linkedin_handle](https://twitter.com/SashenHasinduJ) - sashenjayathilaka95@gmail.com
 
 Project Link: [https://github.com/omjaju18/Threads-Clone](https://github.com/SashenJayathilaka/AMAZON-Clone.git)
 
@@ -264,8 +253,3 @@ Project Link: [https://github.com/omjaju18/Threads-Clone](https://github.com/Sas
 <br />
 
 <div align="center">Don't forget to leave a star ⭐️</div>
-
-## :handshake: Contact
-Om Jaju- [@Linkedin_Profile](https://www.linkedin.com/in/-omjaju/) - omjaju03@gmail.com
-
-Project Link: [https://github.com/omjaju18/Linkedin-Clone.git](https://github.com/omjaju18/Linkedin-Clone.git)
