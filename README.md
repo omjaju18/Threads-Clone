@@ -55,7 +55,8 @@ Threads Clone with NEXT.JS! (ReactJS, NextJS, Typescript, Tailwind CSS, MongoDB,
 
 ## :handshake: Contact
 
-Your Name - [@Linkedin_handle](https://www.linkedin.com/in/-omjaju/) -(https://www.linkedin.com/in/-omjaju/)
+Your Name - [@Linkedin_handle](https://www.linkedin.com/in/-omjaju/) -https://www.linkedin.com/in/-omjaju/
+
 Project Link: [https://github.com/omjaju18/Threads-Clone](https://github.com/omjaju18/Threads-Clone)
 
 
