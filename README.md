@@ -12,7 +12,7 @@ Threads Clone with NEXT.JS! (ReactJS, NextJS, Typescript, Tailwind CSS, MongoDB,
 </div>
 
  <h2> 
-   <a href="https://threads-clone-omjaju.vercel.app/">View Demo</a>
+   <a href="https://threads-clone-omjaju.vercel.app/">Live Site</a>
  </h2>  
 
 <h2>
